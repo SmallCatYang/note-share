@@ -12,6 +12,6 @@ hello git !!
 hello git !!
 hello git !!
 hello git !!
-hello git !!
-hello git !!
+hello git !! 我是hot-fix 我修改了一点点东西！！
+hello git !! 我是master，我添加了一点东西！！
 代码太多了有点卡段，BUG已修复！！！

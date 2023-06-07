@@ -14,3 +14,4 @@ hello git !!
 hello git !!
 hello git !!
 hello git !!
+代码太多了有点卡段，BUG已修复！！！
